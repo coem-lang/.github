@@ -2,6 +2,8 @@
 
 Welcome! This is the organisation for Coem, a poetic programming language.
 
+![Crossfading between versions of the poem without and with the compiler-generated comments to the sides of the lines.](/briefly.gif)
+
 ## Overview
 
 (I'll star the ones that are probably most interesting!)
