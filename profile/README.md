@@ -22,4 +22,4 @@ Welcome! This is the organisation for Coem, a poetic programming language.
 
 Thanks for visiting :)
 
-[Katherine](https://github.com/whykatherine)
+[Katherine](https://github.com/kayserifserif)
